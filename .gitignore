@@ -1,0 +1,6 @@
+env
+gpt2/
+loss-plot.pdf
+model_and_optimizer.pth
+model_pth
+review_classifier.pth
